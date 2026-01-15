@@ -1,4 +1,9 @@
-# 💫 Hi 👋, I'm Darshill Mehta
+<h1 align="center">👋 Hi, I'm Darshill Mehta</h1>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2600&pause=700&color=111827&center=true&vCenter=true&multiline=true&width=780&height=130&lines=AI+%26+ML+Explorer;Turning+Data+Into+Decisions;Code+That+Adapts.+Not+Just+Executes." />
+</div>
+
 
 # 💫 About Me
 
